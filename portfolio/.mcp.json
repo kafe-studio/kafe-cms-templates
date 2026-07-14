@@ -1,0 +1,8 @@
+{
+	"mcpServers": {
+		"kafecms-docs": {
+			"type": "http",
+			"url": "https://docs.kafecms.com/mcp"
+		}
+	}
+}
